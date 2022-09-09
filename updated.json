@@ -1,0 +1,32 @@
+{
+    "name": "Fiamani",
+    "symbol": "BLD",
+    "description": "Gym rat. Chad",
+    "seller_fee_basis_points": 500,
+    "uri": "https://raw.githubusercontent.com/jpeg-ringo/jpeg-ringo/main/10458639_447008208809049_4050724987756905192_n.jpg",
+    "creators": [
+        {
+            "address": "ZAKiUtFW687Q1Dny4uZC5KBu8fCBfTWYvAd6DNr9eGq",
+            "verified": false,
+            "share": 100
+        }
+    ],
+    "attributes": [
+        {
+            "trait_type": "Skin",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Work",
+            "value": "Chicken Attack"
+        },
+        {
+            "trait_type": "Emotions",
+            "value": "Grief"
+        },
+        {
+            "trait_type": "Chad level",
+            "value": "100"
+        }
+    ]
+}
